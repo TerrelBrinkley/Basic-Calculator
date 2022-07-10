@@ -1,4 +1,4 @@
-//Calculator Class that can perfom simple arithmetic operations on two integers
+//Calculator Class that can perform simple arithmetic operations on two integers
 public class Calculator {
     public Calculator() {
 
